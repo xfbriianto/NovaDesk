@@ -26,7 +26,7 @@ It showcases a modern productivity workspace concept for freelancers, including 
 - Minimal, modern SaaS aesthetic
 
 ## 📷 Preview
-Live Demo: https://quiet-brew.vercel.app/
+Live Demo: nova-desk-six.vercel.app/
 
 ## 📁 Status
 Completed UI (Frontend only)
