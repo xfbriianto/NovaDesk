@@ -82,7 +82,7 @@ const TestimonialsPage = () => {
               <img
                 alt="User One"
                 className="w-full h-full rounded-full object-cover border-2 border-surface"
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuBJXw_rJiIzidckMVJsB23wtt3yF6q5IQxHkuk9XpqbrFXHO7czFCLWOr8b7ur5xDY5yGtKpbl9UgW0IiE75zJL7DlEcvJW1YzzKkdCYj1TFXOqtOvLhvAmjeQiZebMJqC_XXkaemwjLS59NQjvsCCs_H1VsHwmTy-Vh2poaMD0mWtL_JEGMapKaC2IYLikS_ap1VzEB6cHftnRvnBxxxtc0T0zUgrAq3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf"
+                src="https://api.dicebear.com/7.x/avataaars/svg?seed=UserOne&backgroundColor=7c3aed"
               />
             </div>
             <div>
@@ -119,7 +119,7 @@ const TestimonialsPage = () => {
               <img
                 alt="User Two"
                 className="w-full h-full rounded-full object-cover border-2 border-surface"
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuCngo43Ss05zhh1ySXamvwW7C3FXTwf5F3ADawJLdJ87r0RDS_3xzwrdMCVuYtcv9kEME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf_wl3dtcJ0ROXA-JQpYP_AB_V9h37prCw4RiIvRHZDURrTYfO3QL5EpmTP-jvsoDsjhuopIVHHmBRZtkPXHbzPylrSsVvdzze9UFSzE498WWAebLC3qiDgIiOEZk8pkCVOtFsere-DqE_m_scBEfJ5On_VNDtDiw"
+                src="https://api.dicebear.com/7.x/avataaars/svg?seed=UserTwo&backgroundColor=8b5cf6"
               />
             </div>
             <div>
@@ -156,7 +156,7 @@ const TestimonialsPage = () => {
               <img
                 alt="User Three"
                 className="w-full h-full rounded-full object-cover border-2 border-surface"
-                src="https://lh3.googleusercontent.com/aida-public/AB6AEME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf_0dZtM3uGlD5KjJF8W-ncO60GYqlqvuXOac1fIZk7uqKK3ElbpuAL9lEME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf-NQwYMttnebCsntTD6bD7qR7v_F2ExqFsBufdBkCwQPQd-g1qGKaZmA4YPYfgRkmN8TJHrNiNZHmyZUNN4UJxY_5O5wgRbDK1GEO0Wzxr-z5y0HSqND4ueqAwroafbDg"
+               src="https://api.dicebear.com/7.x/avataaars/svg?seed=UserThree&backgroundColor=6d28d9"
               />
             </div>
             <div>
